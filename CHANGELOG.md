@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.8.16-1 (2026-11-23)
+
+- README: Deploy on Railway button linking to the published template `juggleim`. No change to the app or its configuration.
+
 ## 1.8.16 (2026-11-23)
 
 First release of the template.
