@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/juggleim?utm_medium=integration&utm_source=button&utm_campaign=juggleim)
+
 # JuggleIM on Railway
 
 A Railway template for [JuggleIM](https://github.com/juggleim/im-server) (`juggleim/im-server`), a self-hosted, Apache-2.0 instant-messaging server written in Go: private chat, groups, chatrooms, message history, a WebSocket endpoint for the client SDKs, a signed server REST API and a web admin console.
